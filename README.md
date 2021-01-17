@@ -1,2 +1,3 @@
 # Site
 I am building a website for my friend and community. He is a streamer that plays multiple different games. I decided to make this site because I am in a AP CSP class. I was really interested, so I talked to my amazing teacher and he told me I should start working on codecademy to learn computing languages. He also told me to start a small project, and 2 months ago I had no clue what I wanted to make. When I was talking to my friend I had an idea out of no where. I asked him if he wanted something coding related for a "gift". He obviously said yes and my idea and small project was created. 
+https://rpmayer66.wixsite.com/website
